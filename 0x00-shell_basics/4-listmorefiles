@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$(ls -la $(dirname $(realpath $0)))"
