@@ -1,3 +1,5 @@
+_SHELL PERMISSIONS_
+
 *0-iam_betty switches the current user to the user betty.
 *1-who_am_i prints the effective username of the current user.
 *2-groups prints all the groups the current user is part of.
@@ -14,4 +16,4 @@
 *13-change_group changes the group owner to school for the file hello
 *100-change_owner_and_group changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
 *101-symbolic_link_permissions changes the owner and the group owner of _hello to vincent and staff respectively.
-*102-if_only changes the owner of the file hello to betty only if it is owned by the user guillaume. 
+*102-if_only changes the owner of the file hello to betty only if it is owned by the user guillaume.*103-Star_Wars play the StarWars IV episode in the terminal. 
